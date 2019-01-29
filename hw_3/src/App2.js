@@ -11,7 +11,7 @@ class App extends Component {
         ];
 
         return <div>
-                 <Menu titleMenu="Основное меню сайта" items={menuItems}/>
+                 <Menu titleMenu="Меню работает" items={menuItems}/>
         </div>;
     }
 }

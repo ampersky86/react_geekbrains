@@ -13,7 +13,7 @@ class MenuItem extends React.Component {
 }
 
 MenuItem.defaultProps = {
-    children: "Главная (страница по умолчанию)",
+    children: "Что-то пошло не так - ссылки не переданы. Не вопрос, передам, но надо разобраться с Login ",
     href: "/"
 };
 
